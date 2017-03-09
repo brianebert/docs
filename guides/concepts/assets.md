@@ -54,7 +54,7 @@ who wants to hold its credit, allowing it to control who its customers are.
 
 ### Revoking access
 As an anchor, you can mark the issuing account `AUTHORIZATION REVOCABLE`. With this setting, the anchor can freeze credit
-held by another account. When credit is frozen for a particular account, that account can only send the credit back to the anchor--it can't transfer the credit to any other account.
+held by another account. When credit is frozen for a particular account it can't transfer the credit to any other account.
 This setting allows the issuing account to revoke credit that it accidentally issued or that was obtained improperly.
 
 ## Amount precision and representation
